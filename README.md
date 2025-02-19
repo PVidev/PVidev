@@ -24,9 +24,9 @@ I have worked on various projects including:
 - Deepening my knowledge in **state management** with Redux and Zustand
 
 ## 📫 Get in Touch
-- **GitHub:** [YourGitHubProfile](https://github.com/PVidev)
-- **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-- **Email:** your.email@example.com
+- **GitHub:** [Link](https://github.com/PVidev)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/peyo-videv-a59256242/)
+- **Facebook:** [Link](https://www.facebook.com/peyovidev/)
 
 Always open to new opportunities and collaborations! 🚀
 
