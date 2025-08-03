@@ -26,7 +26,7 @@ I’m constantly leveling up my skills and diving into:
 
 ## 📬 Let’s Connect!
 - **GitHub:** [Link](https://github.com/PVidev)
-- **LinkedIn:** [Link](https://www.linkedin.com/in/peyo-videv-a59256242/)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/peyo-videv/)
 - **Facebook:** [Link](https://www.facebook.com/peyovidev/)
 - **Webpage:** [Link](https://pvidev-design.com/)
 
