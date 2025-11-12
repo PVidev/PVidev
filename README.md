@@ -32,4 +32,4 @@ I’m constantly leveling up my skills and diving into:
 
 Always looking for exciting opportunities and collaborations – let's build something amazing together! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvidev&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvidev&show_icons=true&theme=metro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvidev&layout=donut)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvidev&show_icons=true&theme=metro)
