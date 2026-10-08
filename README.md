@@ -248,12 +248,5 @@ Currently focused on:
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=PVidev&style=for-the-badge"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
   <b>Building practical software, one project at a time.</b>
 </p>
