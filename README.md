@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer focused on building SaaS platforms, PWAs, business applications and production-ready web systems.
+  Front-End Developer focused on building SaaS platforms, PWAs, business applications and production-ready web systems.
 </p>
 
 <p align="center">
