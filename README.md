@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;SaaS+%26+Web+Applications;PWA+%26+SPA+Development;React+%7C+TypeScript+%7C+PHP+%7C+MySQL;Zod+%7C+API+Validation;AI-Assisted+Development;Building+Practical+Software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Front-End+Developer;SaaS+%26+Web+Applications;PWA+%26+SPA+Development;React+%7C+TypeScript+%7C+PHP+%7C+MySQL;Zod+%7C+API+Validation;AI-Assisted+Development;Building+Practical+Software"
     alt="Typing SVG"
   />
 </p>
