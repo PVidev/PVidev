@@ -129,28 +129,6 @@ A custom wedding platform with RSVP management, guest access and QR-based photo 
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PVidev&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=PVidev&no-frame=true&column=4&margin-w=15&margin-h=15"
-    alt="GitHub trophies"
-  />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 Currently focused on:
