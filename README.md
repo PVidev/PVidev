@@ -2,13 +2,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Front-End+Developer;SaaS+%26+Web+Applications;PWA+%26+SPA+Development;React+%7C+TypeScript+%7C+PHP+%7C+MySQL;Zod+%7C+API+Validation;AI-Assisted+Development;Building+Practical+Software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Front-End+Developer;React+%26+TypeScript;SaaS+%26+Web+Applications;PWA+%26+SPA+Development;Zod+%7C+API+Validation;AI-Assisted+Development;Building+Practical+Software"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  Front-End Developer focused on building SaaS platforms, PWAs, business applications and production-ready web systems.
+  Front-End Developer focused on building modern SaaS interfaces, PWAs, responsive applications and production-ready web experiences.
 </p>
 
 <p align="center">
@@ -29,22 +29,26 @@
 
 ## 👨‍💻 About Me
 
-I build practical, production-oriented web applications with a focus on:
+I build practical, production-oriented web applications with a strong focus on front-end development, user experience and modern web technologies.
 
-- Full-stack web development
-- SaaS platforms
+My work includes:
+
+- React and TypeScript applications
+- SaaS front-end development
 - Progressive Web Applications (PWA)
 - Single Page Applications (SPA)
-- REST APIs
+- Responsive and mobile-first interfaces
+- REST API integration
+- Authentication and role-based interfaces
 - Business dashboards
-- Authentication and role-based systems
-- Database-driven applications
-- Responsive interfaces
-- Production deployment
+- Database-driven front-end applications
 - Performance optimization
 - SEO and technical web optimization
+- Production deployment
 
-My current core stack is **React, TypeScript, PHP, MySQL and Zod**, supported by modern AI-assisted development workflows.
+I also have practical experience working with **PHP, Node.js, Express and MySQL**, which helps me understand the full application flow and collaborate effectively on full-stack projects.
+
+My current core stack is **React, TypeScript, Vite, SCSS and Zod**, supported by modern AI-assisted development workflows.
 
 ---
 
@@ -62,7 +66,7 @@ My current core stack is **React, TypeScript, PHP, MySQL and Zod**, supported by
 
 `Zod` · `TypeScript` · `Schema Validation` · `Runtime Validation` · `Typed APIs`
 
-### Backend & Database
+### Backend & Database Experience
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql" alt="Backend technologies" />
@@ -110,8 +114,8 @@ AI supports my workflow, but I remain responsible for:
 - Code quality
 - Security considerations
 - Testing and validation
-- API design
-- Database design
+- API integration
+- Data handling
 - Production deployment
 - Final implementation decisions
 
@@ -119,16 +123,19 @@ AI supports my workflow, but I remain responsible for:
 
 ## ⚡ Modern Web Development Skills
 
+- React application development
+- TypeScript development
+- Front-end application architecture
 - Progressive Web Applications (PWA)
 - Single Page Applications (SPA)
-- REST API development and integration
+- REST API integration
 - Zod schema validation
 - Runtime data validation
-- Type-safe application architecture
+- Type-safe front-end workflows
 - Responsive and mobile-first design
-- Authentication systems
-- Role-based access control
-- Database-driven applications
+- Authentication interfaces
+- Role-based UI
+- Business dashboards
 - Service Worker workflows
 - SEO optimization
 - Web performance optimization
@@ -148,8 +155,11 @@ AI supports my workflow, but I remain responsible for:
 
 A web platform for parents, children and specialists with user profiles, specialist services, platform management features and parenting tools.
 
-**Tech Stack:**  
-`React` · `TypeScript` · `Vite` · `SCSS` · `Zod` · `PHP` · `MySQL`
+**Front-End Focus:**  
+`React` · `TypeScript` · `Vite` · `SCSS` · `Zod`
+
+**Additional Technologies:**  
+`PHP` · `MySQL`
 
 🌐 **Live:** https://beboci.eu
 
@@ -159,8 +169,11 @@ A web platform for parents, children and specialists with user profiles, special
 
 A SaaS platform for automotive service management, designed around customers, vehicles, repair history and service workflows.
 
-**Tech Stack:**  
-`React` · `TypeScript` · `PHP` · `MySQL`
+**Front-End Focus:**  
+`React` · `TypeScript`
+
+**Additional Technologies:**  
+`PHP` · `MySQL`
 
 🌐 **Live:** https://fixivo.eu
 
@@ -170,8 +183,11 @@ A SaaS platform for automotive service management, designed around customers, ve
 
 A custom wedding platform with RSVP management, guest access and QR-based photo functionality.
 
-**Tech Stack:**  
-`React` · `TypeScript` · `PHP`
+**Front-End Focus:**  
+`React` · `TypeScript`
+
+**Additional Technologies:**  
+`PHP`
 
 ---
 
@@ -210,15 +226,15 @@ A custom wedding platform with RSVP management, guest access and QR-based photo 
 
 Currently focused on:
 
-- Production-ready React & TypeScript applications
-- Full-stack application architecture
-- SaaS development
+- Advanced React & TypeScript development
+- Front-end application architecture
+- SaaS interfaces
 - PWA development
 - Zod validation and type-safe workflows
-- API and database architecture
+- REST API integration
 - Performance optimization
 - Better UX and responsive design
-- Clean and maintainable code
+- Clean and maintainable front-end code
 - AI-assisted development
 - Agent-based development workflows
 - Automation and developer productivity
