@@ -1,24 +1,46 @@
-# Hi, I'm Peyo 👋
+```md
+<h1 align="center">Hi, I'm Peyo 👋</h1>
 
-### Full-Stack Developer · SaaS & Web Applications
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;SaaS+%26+Web+Applications;React+%7C+TypeScript+%7C+PHP+%7C+MySQL;Building+practical+software"
+    alt="Typing SVG"
+  />
+</p>
 
-I build real-world web platforms, SaaS products and business applications with a focus on clean UI, practical functionality and maintainable code.
+<p align="center">
+  Full-Stack Developer focused on building real-world web platforms, SaaS products and business applications.
+</p>
 
-Currently working primarily with **React, TypeScript, PHP and MySQL**.
+<p align="center">
+  <a href="https://pvidev.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-pvidev.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/peyo-videv/">
+    <img src="https://img.shields.io/badge/LinkedIn-Peyo_Videv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/PVidev">
+    <img src="https://img.shields.io/badge/GitHub-PVidev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🚀 What I Build
+## 👨‍💻 About Me
 
-- Full-stack web applications
+I build practical, production-oriented web applications with a focus on:
+
+- Full-stack web development
 - SaaS platforms
 - Single Page Applications
 - REST APIs
 - Business dashboards
-- Authentication & role-based systems
-- Responsive interfaces
+- Authentication and role-based systems
 - Database-driven applications
-- Production deployments
+- Responsive interfaces
+- Production deployment
+
+My current core stack is **React, TypeScript, PHP and MySQL**.
 
 ---
 
@@ -26,26 +48,21 @@ Currently working primarily with **React, TypeScript, PHP and MySQL**.
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,html,css,sass" alt="Frontend technologies" />
+</p>
 
 ### Backend & Database
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql" alt="Backend technologies" />
+</p>
 
-### Tools
+### Tools & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development tools" />
+</p>
 
 ---
 
@@ -53,9 +70,10 @@ Currently working primarily with **React, TypeScript, PHP and MySQL**.
 
 ### 👶 Beboci
 
-A web platform for parents, children and specialists, combining parenting tools, specialist services and platform management functionality.
+A web platform for parents, children and specialists with user profiles, specialist services, platform management features and parenting tools.
 
-**Tech:** `React` · `TypeScript` · `Vite` · `PHP` · `MySQL`
+**Tech Stack:**  
+`React` · `TypeScript` · `Vite` · `PHP` · `MySQL`
 
 🌐 **Live:** https://beboci.eu
 
@@ -63,9 +81,10 @@ A web platform for parents, children and specialists, combining parenting tools,
 
 ### 🔧 Fixivo
 
-SaaS platform designed for automotive service management, including customers, vehicles, service history and business workflows.
+A SaaS platform for automotive service management, designed around customers, vehicles, repair history and service workflows.
 
-**Tech:** `React` · `TypeScript` · `PHP` · `MySQL`
+**Tech Stack:**  
+`React` · `TypeScript` · `PHP` · `MySQL`
 
 🌐 **Live:** https://fixivo.eu
 
@@ -73,41 +92,106 @@ SaaS platform designed for automotive service management, including customers, v
 
 ### 💍 Wedding Suite
 
-Custom wedding platform combining guest RSVP management, guest access and QR-based photo functionality.
+A custom wedding platform with RSVP management, guest access and QR-based photo functionality.
 
-**Tech:** `React` · `TypeScript` · `PHP`
+**Tech Stack:**  
+`React` · `TypeScript` · `PHP`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PVidev&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PVidev&layout=compact&hide_border=true&langs_count=8" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=PVidev&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Peyo's GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PVidev&layout=compact&hide_border=true&langs_count=8"
+    alt="Most used languages"
+  />
 </p>
 
 ---
 
-## 📈 Current Focus
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=PVidev&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PVidev&hide_border=true"
+    alt="GitHub activity graph"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=PVidev&no-frame=true&column=4&margin-w=15&margin-h=15"
+    alt="GitHub trophies"
+  />
+</p>
+
+---
+
+## 🎯 Current Focus
 
 Currently focused on:
 
-- Building production-ready React & TypeScript applications
+- Production-ready React & TypeScript applications
 - Full-stack application architecture
 - SaaS development
-- API & database architecture
-- Improving application performance and UX
+- API and database architecture
+- Performance optimization
+- Better UX and responsive design
+- Clean and maintainable code
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-pvidev.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pvidev.dev/)
+<p align="center">
+  <a href="https://pvidev.dev/">
+    <img src="https://img.shields.io/badge/Website-pvidev.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peyo_Videv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peyo-videv/)
+  <a href="https://www.linkedin.com/in/peyo-videv/">
+    <img src="https://img.shields.io/badge/LinkedIn-Peyo_Videv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PVidev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PVidev)
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-> Building practical software, one project at a time.
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=PVidev&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <b>Building practical software, one project at a time.</b>
+</p>
+```
