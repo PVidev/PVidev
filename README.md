@@ -177,7 +177,7 @@ Currently focused on:
     <img src="https://img.shields.io/badge/LinkedIn-Peyo_Videv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:pvidev@pvidev.dev">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
