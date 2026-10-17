@@ -189,6 +189,8 @@ A custom wedding platform with RSVP management, guest access and QR-based photo 
 **Additional Technologies:**  
 `PHP`
 
+🌐 **Final Gallery Live:** https://bojilovi.vercel.app/
+
 ---
 
 ## 📊 GitHub Statistics
