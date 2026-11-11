@@ -198,7 +198,7 @@ A custom wedding platform with RSVP management, guest access and QR-based photo 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PVidev&layout=compact&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PVidev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
     alt="Most used languages"
   />
 </p>
@@ -206,7 +206,7 @@ A custom wedding platform with RSVP management, guest access and QR-based photo 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=PVidev&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=PVidev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
     alt="Peyo's GitHub stats"
   />
 </p>
